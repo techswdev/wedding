@@ -2,7 +2,7 @@
   "name": "my-next-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://smyhwedding0517.site",
+  "homepage": "https://smyhwedding0517.site",
   "scripts": {
     "dev": "next dev --turbopack",
     "predeploy" : "npm run build",
